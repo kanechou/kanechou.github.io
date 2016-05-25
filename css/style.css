@@ -994,7 +994,15 @@ a {
   margin-top: 0;
 }
 .article-entry em {
-  font-style: italic;
+  font-style: normal;
+  background: #fbedeb;
+  color: #e2678f;
+  padding: 0 5px;
+  margin: 0 2px;
+  font-size: 0.9em;
+  -webkit-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
 }
 .article-entry ul li:before {
   content: "";
